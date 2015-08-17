@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="Libs/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/gson-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/httpclient-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/jxmpp-core-0.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/jxmpp-util-cache-0.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/minidns-0.1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-core-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-extensions-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-im-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-java7-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-resolver-minidns-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-sasl-provided-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/smack-tcp-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/xpp3_min-1.1.4c.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/xpp3_xpath-1.1.4c.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
